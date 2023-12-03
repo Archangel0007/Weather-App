@@ -1,2 +1,2 @@
 # Weather-App
- 
+This Weather App is a user-friendly tool that allows you to check the current weather conditions of any city. Simply type the city's name in the search bar and hit the search icon. The app provides essential information such as temperature, humidity, and wind speed in a visually appealing interface. The dynamic weather icon changes based on the current weather, giving you a quick visual representation. It's a convenient and intuitive way to stay informed about the weather in different locations, making it easier to plan your activities accordingly.
